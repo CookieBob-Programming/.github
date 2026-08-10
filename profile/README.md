@@ -84,6 +84,8 @@
 <a href="https://github.com/MarioH1919"><img src="https://img.shields.io/badge/Owner-MarioH1919-7a4a21?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Owner"/></a>
 <img src="https://img.shields.io/badge/Open%20Source-Yes-8a5a2b?style=flat-square" alt="Open Source"/></div>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=26&amp;duration=3500&amp;pause=900&amp;color=D8943F&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=60&amp;lines=Clean+code+%26+modern+web+engineering.;Developer+tools%2C+engines+%26+apps+for+everyone.;Open+source+from+day+one+%F0%9F%8D%AA" alt="Typing SVG"/></p>
+
 ---
 
 ## 🍪 About CookieBob
@@ -145,7 +147,11 @@ CookieBob is a development organization focused on **clean, well-engineered soft
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMarioH1919&amp;query=followers&amp;label=Followers&amp;style=for-the-badge&amp;color=d8943f&amp;logo=github&amp;logoColor=white" alt="Followers"/>
 <img src="https://img.shields.io/badge/Stars-4-3a1d0e?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Stars"/></div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioH1919&amp;background=3a1d0e&amp;border=7a4a21&amp;stroke=8a5a2b&amp;ring=d8943f&amp;fire=d8943f&amp;currStreakNum=fff4dd&amp;sideNums=ffeec9&amp;currStreakLabel=fff4dd&amp;sideLabels=ffeec9&amp;dates=e0cdb2" alt="GitHub Streak"/></p>
+<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=MarioH1919&amp;theme=transparent&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;title_color=E8A87C&amp;icon_color=E8A87C&amp;text_color=C9BBA8&amp;bg_color=1E1712" alt="GitHub stats"/></div>
+
+<div align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MarioH1919&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=E8A87C&amp;text_color=C9BBA8&amp;bg_color=1E1712" alt="Top languages"/></div>
+
+<div align="center"><img src="https://streak-stats.demolab.com/?user=MarioH1919&amp;theme=transparent&amp;hide_border=true&amp;ring=E8A87C&amp;fire=E8A87C&amp;currStreakNum=FDF6EC&amp;sideNums=E8A87C&amp;currStreakLabel=FDF6EC&amp;sideLabels=FDF6EC&amp;dates=9C8B7A" alt="GitHub streak"/></div>
 
 <div align="center"><svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
 <line x1="0" y1="12" x2="138" y2="12" stroke="#e0cdb2" stroke-width="2"/>
