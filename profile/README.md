@@ -145,13 +145,49 @@ CookieBob is a development organization focused on **clean, well-engineered soft
 
 <div align="center"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FCookieBob-Programming&amp;query=public_repos&amp;label=Public%20Repos&amp;style=for-the-badge&amp;color=7a4a21&amp;logo=github&amp;logoColor=white" alt="Public Repos"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMarioH1919&amp;query=followers&amp;label=Followers&amp;style=for-the-badge&amp;color=d8943f&amp;logo=github&amp;logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/badge/Stars-4-3a1d0e?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Stars"/></div>
+<img src="https://img.shields.io/badge/Since-2026-3a1d0e?style=for-the-badge" alt="Since 2026"/></div>
 
-<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=MarioH1919&amp;theme=transparent&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=true&amp;title_color=E8A87C&amp;icon_color=E8A87C&amp;text_color=C9BBA8&amp;bg_color=1E1712" alt="GitHub stats"/></div>
+<div align="center"><svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150" role="img" aria-label="CookieBob organization stats">
+<defs>
+<linearGradient id="cbAccA" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#d8943f"/><stop offset="100%" stop-color="#8a5a2b"/></linearGradient>
+</defs>
+<rect width="400" height="150" rx="14" fill="#1E1712"/>
+<rect x="2" y="2" width="396" height="4" rx="2" fill="url(#cbAccA)"/>
+<text x="20" y="38" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="16" font-weight="600" fill="#E8A87C">CookieBob</text>
+<text x="20" y="56" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="11" fill="#9C8B7A">Organization &#183; GitHub stats</text>
+<g font-family="'Segoe UI', Ubuntu, Arial, sans-serif" text-anchor="middle">
+<text x="70" y="112" font-size="28" font-weight="700" fill="#FDF6EC">5</text>
+<text x="70" y="134" font-size="11" fill="#C9BBA8">Repos</text>
+<text x="170" y="112" font-size="28" font-weight="700" fill="#FDF6EC">4</text>
+<text x="170" y="134" font-size="11" fill="#C9BBA8">Stars</text>
+<text x="270" y="112" font-size="28" font-weight="700" fill="#FDF6EC">0</text>
+<text x="270" y="134" font-size="11" fill="#C9BBA8">Forks</text>
+<text x="370" y="112" font-size="28" font-weight="700" fill="#FDF6EC">1</text>
+<text x="370" y="134" font-size="11" fill="#C9BBA8">Followers</text>
+</g>
+</svg></div>
 
-<div align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MarioH1919&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=E8A87C&amp;text_color=C9BBA8&amp;bg_color=1E1712" alt="Top languages"/></div>
-
-<div align="center"><img src="https://streak-stats.demolab.com/?user=MarioH1919&amp;theme=transparent&amp;hide_border=true&amp;ring=E8A87C&amp;fire=E8A87C&amp;currStreakNum=FDF6EC&amp;sideNums=E8A87C&amp;currStreakLabel=FDF6EC&amp;sideLabels=FDF6EC&amp;dates=9C8B7A" alt="GitHub streak"/></div>
+<div align="center"><svg xmlns="http://www.w3.org/2000/svg" width="400" height="130" viewBox="0 0 400 130" role="img" aria-label="CookieBob top languages">
+<defs>
+<linearGradient id="cbAccB" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#d8943f"/><stop offset="100%" stop-color="#8a5a2b"/></linearGradient>
+</defs>
+<rect width="400" height="130" rx="14" fill="#1E1712"/>
+<rect x="2" y="2" width="396" height="4" rx="2" fill="url(#cbAccB)"/>
+<text x="20" y="38" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="16" font-weight="600" fill="#E8A87C">Top Languages</text>
+<text x="20" y="56" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="11" fill="#9C8B7A">By bytes across organization repositories</text>
+<rect x="20" y="72" width="360" height="14" rx="7" fill="#2B241D"/>
+<rect x="20" y="72" width="296" height="14" rx="7" fill="#3776AB"/>
+<rect x="318" y="72" width="30" height="14" rx="7" fill="#E34F26"/>
+<rect x="350" y="72" width="28" height="14" rx="7" fill="#4EAA25"/>
+<g font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="11" fill="#C9BBA8">
+<rect x="20" y="98" width="8" height="8" rx="2" fill="#3776AB"/>
+<text x="34" y="106">Python 82%</text>
+<rect x="130" y="98" width="8" height="8" rx="2" fill="#E34F26"/>
+<text x="144" y="106">HTML 9%</text>
+<rect x="220" y="98" width="8" height="8" rx="2" fill="#4EAA25"/>
+<text x="234" y="106">Shell 9%</text>
+</g>
+</svg></div>
 
 <div align="center"><svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
 <line x1="0" y1="12" x2="138" y2="12" stroke="#e0cdb2" stroke-width="2"/>
