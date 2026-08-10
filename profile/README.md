@@ -135,14 +135,11 @@ CookieBob is a development organization focused on **clean, well-engineered soft
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=CookieBob-Programming&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=E8A87C&icon_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="GitHub stats" />
+  <img src="assets/stats.svg" alt="CookieBob stats" />
 </div>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CookieBob-Programming&amp;background=3a1d0e&amp;border=7a4a21&amp;stroke=8a5a2b&amp;ring=d8943f&amp;fire=d8943f&amp;currStreakNum=fff4dd&amp;sideNums=ffeec9&amp;currStreakLabel=fff4dd&amp;sideLabels=ffeec9&amp;dates=e0cdb2" alt="GitHub Streak"/></div>
-
-
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CookieBob-Programming&layout=compact&theme=transparent&hide_border=true&title_color=E8A87C&text_color=C9BBA8&bg_color=1E1712" alt="Top languages" />
+  <img src="assets/top-langs.svg" alt="CookieBob top languages" />
 </div>
 
 ## 📦 Projects
