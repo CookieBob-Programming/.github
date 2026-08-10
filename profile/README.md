@@ -66,17 +66,6 @@
   </image>
   <text x="470" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#fff4dd" filter="url(#cbShadow)">CookieBob</text>
   <text x="472" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#ffeec9" opacity="0.95">Clean code &amp; modern web engineering.</text>
-  <!-- CTA pills -->
-  <a href="https://cookiebob.com">
-    <rect x="472" y="248" width="226" height="50" rx="25" fill="#fff4dd">
-      <animate attributeName="opacity" values="1;0.82;1" dur="3s" repeatCount="indefinite"/>
-    </rect>
-    <text x="585" y="280" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#4a2a14">cookiebob.com</text>
-  </a>
-  <a href="https://github.com/CookieBob-Programming">
-    <rect x="718" y="248" width="196" height="50" rx="25" fill="none" stroke="#fff4dd" stroke-width="2.5"/>
-    <text x="816" y="280" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff4dd">GitHub</text>
-  </a>
 </svg></div>
   
 
@@ -125,7 +114,6 @@ CookieBob is a development organization focused on **clean, well-engineered soft
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=2b1408" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&amp;logo=gradle&amp;logoColor=white" alt="Gradle"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js"/>
