@@ -53,7 +53,7 @@
 
   <!-- Headline -->
   <text x="470" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#fff4dd" filter="url(#cbShadow)">CookieBob</text>
-  <text x="472" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#ffeec9" opacity="0.95">Freshly baked web experiences &amp; delicious code.</text>
+  <text x="472" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#ffeec9" opacity="0.95">Clean code &amp; modern web engineering.</text>
 
   <!-- CTA pills -->
   <a href="https://cookiebob.com">
@@ -76,7 +76,7 @@
 <a href="https://github.com/MarioH1919">
   <img src="https://img.shields.io/badge/Owner-MarioH1919-7a4a21?style=flat-square&logo=github&logoColor=white" alt="Owner"/>
 </a>
-<img src="https://img.shields.io/badge/Baked%20with-%F0%9F%8D%AA-d8943f?style=flat-square" alt="Baked with"/>
+<img src="https://img.shields.io/badge/Open%20Source-Yes-8a5a2b?style=flat-square" alt="Open Source"/>
 
 </div>
 
@@ -84,11 +84,7 @@
 
 ## 🍪 About CookieBob
 
-CookieBob is a small, passionate development organization. We bake **clean code, sweet interfaces, and high-performance web experiences** – with a wink and a big scoop of attention to detail.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Freshly%20baked-Every%20commit-8a5a2b?style=for-the-badge&logoColor=white" alt="Freshly baked"/>
-</p>
+CookieBob is a development organization focused on **clean, well-engineered software and performant web experiences**. We build tools, engines, and applications that are reliable, maintainable, and easy to use.
 
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
@@ -100,21 +96,21 @@ CookieBob is a small, passionate development organization. We bake **clean code,
   </svg>
 </div>
 
-## ✨ What makes us special
+## ✨ What we focus on
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🧁 <strong>Fresh from the oven</strong></h3>
-      Modern technologies &amp; current best practices – every project is baked fresh, every time.
+      <h3>🧩 <strong>Clean code</strong></h3>
+      Readable, testable, and well-structured code that is easy to maintain.
     </td>
     <td width="33%" align="center">
-      <h3>🍫 <strong>With an extra bit</strong></h3>
-      We care about the details you can feel: performance, design &amp; accessibility.
+      <h3>⚡ <strong>Performance &amp; accessibility</strong></h3>
+      Fast, responsive applications that work for everyone.
     </td>
     <td width="33%" align="center">
-      <h3>🤝 <strong>Made for sharing</strong></h3>
-      Knowledge, code &amp; ideas belong to the world – open source is our core ingredient.
+      <h3>🌍 <strong>Open source</strong></h3>
+      All of our work is public – free to use, modify, and learn from.
     </td>
   </tr>
 </table>
@@ -156,9 +152,66 @@ CookieBob is a small, passionate development organization. We bake **clean code,
   </svg>
 </div>
 
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FCookieBob-Programming&query=public_repos&label=Public%20Repos&style=for-the-badge&color=7a4a21&logo=github&logoColor=white" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMarioH1919&query=followers&label=Followers&style=for-the-badge&color=d8943f&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Stars-4-3a1d0e?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioH1919&background=3a1d0e&border=7a4a21&stroke=8a5a2b&ring=d8943f&fire=d8943f&currStreakNum=fff4dd&sideNums=ffeec9&currStreakLabel=fff4dd&sideLabels=ffeec9&dates=e0cdb2" alt="GitHub Streak"/>
+</p>
+
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
+    <line x1="0" y1="12" x2="138" y2="12" stroke="#e0cdb2" stroke-width="2"/>
+    <circle cx="160" cy="12" r="6" fill="#8a5a2b"/>
+    <circle cx="180" cy="12" r="9" fill="#a9713a"/>
+    <circle cx="200" cy="12" r="6" fill="#8a5a2b"/>
+    <line x1="222" y1="12" x2="360" y2="12" stroke="#e0cdb2" stroke-width="2"/>
+  </svg>
+</div>
+
 ## 📦 Projects
 
-Our projects keep growing. Feel free to check out the repositories in this organization from time to time – the best cookies are always the ones that just came out of the oven. 🍪
+<table>
+  <tr>
+    <td width="28%" align="center">
+      <a href="https://github.com/CookieBob-Programming/Super-TMS-Game-Engine"><strong>Super-TMS-Game-Engine</strong></a>
+      <br>
+      <sub>Game engine built for the TMS.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/CookieBob-Programming/Super-TMS-Game-Engine/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/Super-TMS-Game-Engine?style=social" alt="Stars"/></a>
+    </td>
+    <td width="24%" align="center">
+      <a href="https://github.com/CookieBob-Programming/MMO-Base-for-Web-and-Python-Client"><strong>MMO-Base</strong></a>
+      <br>
+      <sub>A base for building MMO clients (Web + Python).</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/CookieBob-Programming/MMO-Base-for-Web-and-Python-Client/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/MMO-Base-for-Web-and-Python-Client?style=social" alt="Stars"/></a>
+    </td>
+    <td width="24%" align="center">
+      <a href="https://github.com/CookieBob-Programming/termnotes"><strong>termnotes</strong></a>
+      <br>
+      <sub>A note-taking app for your Linux terminal with tmux.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <a href="https://github.com/CookieBob-Programming/termnotes/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/termnotes?style=social" alt="Stars"/></a>
+    </td>
+    <td width="24%" align="center">
+      <a href="https://github.com/CookieBob-Programming/autovenv"><strong>autovenv</strong></a>
+      <br>
+      <sub>Automatically uses a shared virtual environment when running Python files.</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/>
+      <a href="https://github.com/CookieBob-Programming/autovenv/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/autovenv?style=social" alt="Stars"/></a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
@@ -179,7 +232,7 @@ Our projects keep growing. Feel free to check out the repositories in this organ
   <br>
   <strong><a href="https://github.com/MarioH1919">MarioH1919</a></strong>
   <br>
-  <sub>Head baker &amp; owner of CookieBob</sub>
+  <sub>Founder &amp; owner of CookieBob</sub>
   <br>
   <img src="https://img.shields.io/badge/GitHub-MarioH1919-7a4a21?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -198,5 +251,5 @@ Our projects keep growing. Feel free to check out the repositories in this organ
 ---
 
 <div align="center">
-  <sub>🍪 Baked with 🧡 and lots of chocolate · © CookieBob</sub>
+  <sub>🍪 CookieBob-Programming · © 2026 · <a href="https://cookiebob.com">cookiebob.com</a></sub>
 </div>
