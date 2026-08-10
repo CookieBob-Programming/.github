@@ -131,6 +131,10 @@ CookieBob is a development organization focused on **clean, well-engineered soft
 <line x1="222" y1="12" x2="360" y2="12" stroke="#e0cdb2" stroke-width="2"/>
 </svg></div>
 
+## 🔥 GitHub streak
+
+<div align="center"><img src="https://streak-stats.demolab.com/?user=MarioH1919&amp;theme=transparent&amp;hide_border=true&amp;ring=E8A87C&amp;fire=E8A87C&amp;currStreakNum=FDF6EC&amp;sideNums=E8A87C&amp;currStreakLabel=FDF6EC&amp;sideLabels=FDF6EC&amp;dates=9C8B7A" alt="GitHub streak"/></div>
+
 ## 📦 Projects
 
 <table>
