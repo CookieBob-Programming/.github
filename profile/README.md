@@ -53,7 +53,7 @@
 
   <!-- Headline -->
   <text x="470" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#fff4dd" filter="url(#cbShadow)">CookieBob</text>
-  <text x="472" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#ffeec9" opacity="0.95">Frisch gebackene Web-Erlebnisse &amp; leckerer Code.</text>
+  <text x="472" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#ffeec9" opacity="0.95">Freshly baked web experiences &amp; delicious code.</text>
 
   <!-- CTA pills -->
   <a href="https://cookiebob.com">
@@ -74,17 +74,17 @@
   <img src="https://img.shields.io/badge/GitHub-CookieBob--Programming-3a1d0e?style=flat-square&logo=github&logoColor=white" alt="GitHub Organization"/>
 </a>
 <a href="https://github.com/MarioH1919">
-  <img src="https://img.shields.io/badge/Betreiber-MarioH1919-7a4a21?style=flat-square&logo=github&logoColor=white" alt="Betreiber"/>
+  <img src="https://img.shields.io/badge/Owner-MarioH1919-7a4a21?style=flat-square&logo=github&logoColor=white" alt="Owner"/>
 </a>
-<img src="https://img.shields.io/badge/Liebe%20gebacken%20mit-%F0%9F%8D%AA-d8943f?style=flat-square" alt="Liebe gebacken mit"/>
+<img src="https://img.shields.io/badge/Baked%20with-%F0%9F%8D%AA-d8943f?style=flat-square" alt="Baked with"/>
 
 </div>
 
 ---
 
-## 🍪 Über CookieBob
+## 🍪 About CookieBob
 
-CookieBob ist eine kleine, leidenschaftliche Entwicklungs-Organisation. Wir backen **sauberen Code, süße Interfaces und performante Web-Erlebnisse** – mit einem Augenzwinkern und einem großen Löffel Liebe zum Detail.
+CookieBob is a small, passionate development organization. We bake **clean code, sweet interfaces, and high-performance web experiences** – with a wink and a big scoop of attention to detail.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Freshly%20baked-Every%20commit-8a5a2b?style=for-the-badge&logoColor=white" alt="Freshly baked"/>
@@ -100,21 +100,21 @@ CookieBob ist eine kleine, leidenschaftliche Entwicklungs-Organisation. Wir back
   </svg>
 </div>
 
-## ✨ Was uns ausmacht
+## ✨ What makes us special
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🧁 <strong>Frisch aus dem Ofen</strong></h3>
-      Moderne Technologien &amp; aktuelle Best Practices – jedes Projekt wird neu &amp; frisch gebacken.
+      <h3>🧁 <strong>Fresh from the oven</strong></h3>
+      Modern technologies &amp; current best practices – every project is baked fresh, every time.
     </td>
     <td width="33%" align="center">
-      <h3>🍫 <strong>Mit einem Extra-Bit</strong></h3>
-      Wir legen Wert auf die Details, die man spürt: Performance, Design &amp; Barrierefreiheit.
+      <h3>🍫 <strong>With an extra bit</strong></h3>
+      We care about the details you can feel: performance, design &amp; accessibility.
     </td>
     <td width="33%" align="center">
-      <h3>🤝 <strong>Zum Teilen</strong></h3>
-      Wissen, Code &amp; Ideen gehören in die Welt – Open Source ist unsere Grundzutat.
+      <h3>🤝 <strong>Made for sharing</strong></h3>
+      Knowledge, code &amp; ideas belong to the world – open source is our core ingredient.
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@ CookieBob ist eine kleine, leidenschaftliche Entwicklungs-Organisation. Wir back
   </svg>
 </div>
 
-## 🛠️ Technologien
+## 🛠️ Tech stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -156,9 +156,9 @@ CookieBob ist eine kleine, leidenschaftliche Entwicklungs-Organisation. Wir back
   </svg>
 </div>
 
-## 📦 Projekte
+## 📦 Projects
 
-Unsere Projekte wachsen stetig. Schau gern regelmäßig in die Repos dieser Organisation – die besten Cookies sind immer die, die gerade aus dem Ofen kommen. 🍪
+Our projects keep growing. Feel free to check out the repositories in this organization from time to time – the best cookies are always the ones that just came out of the oven. 🍪
 
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
@@ -170,7 +170,7 @@ Unsere Projekte wachsen stetig. Schau gern regelmäßig in die Repos dieser Orga
   </svg>
 </div>
 
-## 👤 Betreiber
+## 👤 Owner
 
 <p align="center">
   <a href="https://github.com/MarioH1919">
@@ -179,12 +179,12 @@ Unsere Projekte wachsen stetig. Schau gern regelmäßig in die Repos dieser Orga
   <br>
   <strong><a href="https://github.com/MarioH1919">MarioH1919</a></strong>
   <br>
-  <sub>Backmeister &amp; Betreiber von CookieBob</sub>
+  <sub>Head baker &amp; owner of CookieBob</sub>
   <br>
   <img src="https://img.shields.io/badge/GitHub-MarioH1919-7a4a21?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## 📬 Kontakt
+## 📬 Contact
 
 <div align="center">
   <a href="https://cookiebob.com">
@@ -198,5 +198,5 @@ Unsere Projekte wachsen stetig. Schau gern regelmäßig in die Repos dieser Orga
 ---
 
 <div align="center">
-  <sub>🍪 Gebacken mit 🧡 und viel Schokolade · © CookieBob</sub>
+  <sub>🍪 Baked with 🧡 and lots of chocolate · © CookieBob</sub>
 </div>
