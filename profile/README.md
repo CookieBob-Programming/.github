@@ -66,18 +66,6 @@
   </image>
   <text x="470" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#fff4dd" filter="url(#cbShadow)">CookieBob</text>
   <text x="472" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="400" fill="#ffeec9" opacity="0.95">Clean code &amp; modern web engineering.</text>
-  <!-- CTA pills -->
-  <a href="https://cookiebob.com">
-    <rect x="472" y="248" width="226" height="50" rx="25" fill="#fff4dd">
-      <animate attributeName="opacity" values="1;0.82;1" dur="3s" repeatCount="indefinite"/>
-    </rect>
-    <text x="585" y="280" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#4a2a14">cookiebob.com</text>
-  </a>
-  <a href="https://github.com/CookieBob-Programming">
-    <rect x="718" y="248" width="196" height="50" rx="25" fill="none" stroke="#fff4dd" stroke-width="2.5"/>
-    <text x="816" y="280" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#fff4dd">GitHub</text>
-  </a>
-</svg></div>
 
 <div align="center"><a href="https://cookiebob.com"><img src="https://img.shields.io/badge/Website-cookiebob.com-d8943f?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website"/></a>
 <a href="https://github.com/CookieBob-Programming"><img src="https://img.shields.io/badge/GitHub-CookieBob--Programming-3a1d0e?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Organization"/></a>
