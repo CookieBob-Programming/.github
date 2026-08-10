@@ -24,14 +24,14 @@ API = "https://api.github.com"
 
 FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 
-BG1 = "#2b1408"
-BG2 = "#3a1d0e"
-BORDER = "#7a4a21"
-ACCENT = "#d8943f"
-TITLE = "#fff4dd"
-TEXT = "#e0cdb2"
-MUTED = "#8a5a2b"
-BAR_COLORS = ["#d8943f", "#a9713a", "#8a5a2b", "#7a4a21", "#e0cdb2", "#ffeec9"]
+BG1 = "#1f2733"
+BG2 = "#2c3644"
+BORDER = "#3e4a5a"
+ACCENT = "#7ea6e0"
+TITLE = "#e8eef5"
+TEXT = "#b8c4d4"
+MUTED = "#8494a8"
+BAR_COLORS = ["#7ea6e0", "#5f7ea6", "#93a8c9", "#4a5f7d", "#8ab4f8", "#c3d0e4"]
 
 
 def api(path):
@@ -139,14 +139,19 @@ def rounded_rect(x, y, w, h, rx):
     return f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{rx}"'
 
 
-def header(w, title):
+def header(w, h, title):
     return (
         f'<defs>'
         f'<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">'
         f'<stop offset="0%" stop-color="{BG1}"/><stop offset="100%" stop-color="{BG2}"/>'
         f'</linearGradient>'
+        f'<filter id="blur" x="-60%" y="-60%" width="220%" height="220%">'
+        f'<feGaussianBlur stdDeviation="22"/>'
+        f'</filter>'
         f'</defs>'
-        f'{rounded_rect(0, 0, w, 240, 18)} fill="url(#bg)" stroke="{BORDER}" stroke-width="1.5"/>'
+        f'{rounded_rect(0, 0, w, h, 18)} fill="url(#bg)" stroke="{BORDER}" stroke-width="1.5"/>'
+        f'<circle cx="{w - 26}" cy="24" r="54" fill="{ACCENT}" opacity="0.26" filter="url(#blur)"/>'
+        f'<circle cx="26" cy="{h - 30}" r="42" fill="{ACCENT}" opacity="0.14" filter="url(#blur)"/>'
         f'<circle cx="22" cy="24" r="5" fill="{ACCENT}"/>'
         f'<text x="36" y="30" font-family="{FONT}" font-size="18" font-weight="700" fill="{TITLE}">{escape(title)}</text>'
         f'<line x1="16" y1="46" x2="{w - 16}" y2="46" stroke="{BORDER}" stroke-width="1"/>'
@@ -171,7 +176,7 @@ def render_stats(data):
         (data["issues"], "Open Issues"),
     ]
     centers = [74, 181, 289, 396]
-    body = header(w, "CookieBob · Organization Stats")
+    body = header(w, h, "CookieBob · Organization Stats")
     for (value, label), cx in zip(cells, centers):
         body += metric(cx, 112, value, label)
 
@@ -196,29 +201,32 @@ def render_stats(data):
 def render_langs(data):
     top = data["langs"][:6]
     total = sum(size for _, size in top)
-    h = 60 + len(top) * 30
+    n = len(top)
     w = 470
-    body = header(w, "Top Languages")
-    bar_w = 300
-    x_bar = 150
-    x_pct = 468
-    y = 74
-    for i, (name, size) in enumerate(top):
-        pct = round(size / total * 100, 1) if total else 0
-        width = max(2, int(bar_w * pct / 100))
-        color = BAR_COLORS[i % len(BAR_COLORS)]
+    h = 70 + n * 30 + 14
+    body = header(w, h, "Top Languages")
+    if not top:
         body += (
-            f'<text x="16" y="{y + 12}" font-family="{FONT}" font-size="14" fill="{TEXT}">{escape(name)}</text>'
-            f'<rect x="{x_bar}" y="{y}" width="{bar_w}" height="14" rx="7" fill="{BG2}" stroke="{BORDER}" stroke-width="1"/>'
-            f'<rect x="{x_bar}" y="{y}" width="{width}" height="14" rx="7" fill="{color}"/>'
-            f'<text x="{x_pct}" y="{y + 12}" text-anchor="end" font-family="{FONT}" font-size="13" '
-            f'font-weight="700" fill="{TITLE}">{pct}%</text>'
+            f'<text x="16" y="86" font-family="{FONT}" font-size="14" fill="{TEXT}">'
+            f'No public languages found yet.</text>'
         )
-        y += 30
-    body += (
-        f'<text x="16" y="{h - 14}" font-family="{FONT}" font-size="11" fill="{MUTED}">'
-        f'Updated {escape(data["updated"])} · via GitHub API</text>'
-    )
+    else:
+        bar_w = 300
+        x_bar = 150
+        x_pct = 468
+        y = 70
+        for i, (name, size) in enumerate(top):
+            pct = round(size / total * 100, 1) if total else 0
+            width = max(2, int(bar_w * pct / 100))
+            color = BAR_COLORS[i % len(BAR_COLORS)]
+            body += (
+                f'<text x="16" y="{y + 12}" font-family="{FONT}" font-size="14" fill="{TEXT}">{escape(name)}</text>'
+                f'<rect x="{x_bar}" y="{y}" width="{bar_w}" height="14" rx="7" fill="{BG1}" stroke="{BORDER}" stroke-width="1"/>'
+                f'<rect x="{x_bar}" y="{y}" width="{width}" height="14" rx="7" fill="{color}"/>'
+                f'<text x="{x_pct}" y="{y + 12}" text-anchor="end" font-family="{FONT}" font-size="13" '
+                f'font-weight="700" fill="{TITLE}">{pct}%</text>'
+            )
+            y += 30
     return f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="CookieBob top languages">{body}</svg>'
 
 
