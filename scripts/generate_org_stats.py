@@ -212,7 +212,7 @@ def render_langs(data):
         )
     else:
         bar_w = 300
-        x_bar = 150
+        x_bar = 110
         x_pct = 468
         y = 70
         for i, (name, size) in enumerate(top):
