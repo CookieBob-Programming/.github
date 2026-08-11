@@ -142,24 +142,7 @@ CookieBob is a development organization focused on **clean, well-engineered soft
   <img src="assets/top-langs.svg" alt="CookieBob top languages" />
 </div>
 
-## 📦 Projects
 
-<table>
-<tr>
-<td width="28%" align="center"><a href="https://github.com/CookieBob-Programming/Super-TMS-Game-Engine"><strong>Super-TMS-Game-Engine</strong></a><br><sub>Game engine built for the TMS.</sub><br><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/><a href="https://github.com/CookieBob-Programming/Super-TMS-Game-Engine/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/Super-TMS-Game-Engine?style=social" alt="Stars"/></a></td>
-<td width="24%" align="center"><a href="https://github.com/CookieBob-Programming/MMO-Base-for-Web-and-Python-Client"><strong>MMO-Base</strong></a><br><sub>A base for building MMO clients (Web + Python).</sub><br><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/><a href="https://github.com/CookieBob-Programming/MMO-Base-for-Web-and-Python-Client/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/MMO-Base-for-Web-and-Python-Client?style=social" alt="Stars"/></a></td>
-<td width="24%" align="center"><a href="https://github.com/CookieBob-Programming/termnotes"><strong>termnotes</strong></a><br><sub>A note-taking app for your Linux terminal with tmux.</sub><br><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/><a href="https://github.com/CookieBob-Programming/termnotes/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/termnotes?style=social" alt="Stars"/></a></td>
-<td width="24%" align="center"><a href="https://github.com/CookieBob-Programming/autovenv"><strong>autovenv</strong></a><br><sub>Automatically uses a shared virtual environment when running Python files.</sub><br><br><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="Shell"/><a href="https://github.com/CookieBob-Programming/autovenv/stargazers"><img src="https://img.shields.io/github/stars/CookieBob-Programming/autovenv?style=social" alt="Stars"/></a></td>
-</tr>
-</table>
-
-<div align="center"><svg xmlns="http://www.w3.org/2000/svg" width="360" height="24" viewBox="0 0 360 24" aria-hidden="true">
-<line x1="0" y1="12" x2="138" y2="12" stroke="#e0cdb2" stroke-width="2"/>
-<circle cx="160" cy="12" r="6" fill="#8a5a2b"/>
-<circle cx="180" cy="12" r="9" fill="#a9713a"><animate attributeName="r" values="6.5;9.5;6.5" dur="3s" repeatCount="indefinite"/></circle>
-<circle cx="200" cy="12" r="6" fill="#8a5a2b"/>
-<line x1="222" y1="12" x2="360" y2="12" stroke="#e0cdb2" stroke-width="2"/>
-</svg></div>
 
 ## 👤 Owner
 
