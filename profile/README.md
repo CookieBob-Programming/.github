@@ -71,7 +71,7 @@
 
 <div align="center"><a href="https://cookiebob.com"><img src="https://img.shields.io/badge/Website-cookiebob.com-d8943f?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Website"/></a>
 <a href="https://github.com/CookieBob-Programming"><img src="https://img.shields.io/badge/GitHub-CookieBob--Programming-3a1d0e?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Organization"/></a>
-<a href="https://github.com/MarioH1919"><img src="https://img.shields.io/badge/Owner-MarioH1919-7a4a21?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Owner"/></a>
+<a href="https://github.com/itsCookieBob"><img src="https://img.shields.io/badge/Owner-itsCookieBob-7a4a21?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Owner"/></a>
 <img src="https://img.shields.io/badge/Open%20Source-Yes-8a5a2b?style=flat-square" alt="Open Source"/></div>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=26&amp;duration=3500&amp;pause=900&amp;color=D8943F&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=60&amp;lines=Clean+code+%26+modern+web+engineering.;Developer+tools%2C+engines+%26+apps+for+everyone.;Open+source+from+day+one+%F0%9F%8D%AA" alt="Typing SVG"/></p>
@@ -146,7 +146,7 @@ CookieBob is a development organization focused on **clean, well-engineered soft
 
 ## 👤 Owner
 
-<p align="center"><a href="https://github.com/MarioH1919"><img src="https://github.com/MarioH1919.png" width="90" height="90" alt="MarioH1919"/></a><br><strong><a href="https://github.com/MarioH1919">MarioH1919</a></strong><br><sub>Founder &amp; owner of CookieBob</sub><br><img src="https://img.shields.io/badge/GitHub-MarioH1919-7a4a21?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/></p>
+<p align="center"><a href="https://github.com/itsCookieBob"><img src="https://github.com/itsCookieBob.png" width="90" height="90" alt="itsCookieBob"/></a><br><strong><a href="https://github.com/itsCookieBob">itsCookieBob</a></strong><br><sub>Founder &amp; owner of CookieBob</sub><br><img src="https://img.shields.io/badge/GitHub-itsCookieBob-7a4a21?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/></p>
 
 ## 📬 Contact
 
